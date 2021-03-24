@@ -6,7 +6,7 @@ Add salt to taste.
 ### Instructions:
 1. Download JDK 8 from [this address](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox).
 2. Download the Netbeans binaries from [this address](https://netbeans.apache.org/download/nb123/nb123.html). (current as of Mar 2021; else see [release list](https://netbeans.apache.org/download/index.html)).
-3. Download *netbeans_JDK8_install_script.sh*
+3. Download [netbeans_JDK8_install_script.sh](https://github.com/alex-haw/CS2511/blob/main/netbeans_JDK8_install_script.sh).
 4. Execute `sudo chmod +x ./netbeans_JDK8_install_script.sh`
 5. Execute `sudo ./netbeans_JDK8_install_script.sh`
 
