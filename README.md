@@ -12,5 +12,6 @@ Add salt to taste.
 
 Tips: 
 1. Compare your system to mine using the command: `uname -a` For instance, my laptop returns: *Linux pumpkin 5.10.0-4-amd64 #1 SMP Debian 5.10.19-1 (2021-03-02) x86_64 GNU/Linux*
-2. Use a dark theme if you're not a masochist: *Tools > Options > Appearance > Look and Feel*
+2. Enable JavaFX: *Tools > Plugins > Installed > JavaFX 2*, then follow instrucions.
+3. Use a dark theme if you're not a masochist: *Tools > Options > Appearance > Look and Feel*
 
