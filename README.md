@@ -1,5 +1,5 @@
 # CS2511
-This repo is for collaborating with peers while working on prokects for this course. Review the course syllabus for details on collaboration.
+This repo is for collaborating with peers while working on prokects for this course. Review the course syllabus for guidelines on collaboration.
 
 ## NetBeans Installation Help Script
 Try my script to help install Netbeans and legacy JDK for Debian-based OSs.
