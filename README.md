@@ -5,9 +5,9 @@ This repo is for collaborating with peers while working on prokects for this cou
 Try my script to help install Netbeans and legacy JDK for Debian-based OSs.
 Add salt to taste.
 #### Instructions:
-1. Download [JDK 8.](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox).
-2. Download the [Netbeans binaries.](https://netbeans.apache.org/download/nb123/nb123.html). (current as of Mar 2021; else see [release list](https://netbeans.apache.org/download/index.html)).
-3. Download [netbeans_JDK8_install_script.sh](https://github.com/alex-haw/CS2511/blob/main/netbeans_JDK8_install_script.sh).
+1. Download [JDK 8.](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html#license-lightbox)
+2. Download the [Netbeans binaries.](https://netbeans.apache.org/download/nb123/nb123.html) (current as of Mar 2021; else see [release list](https://netbeans.apache.org/download/index.html))
+3. Download [netbeans_JDK8_install_script.sh](https://github.com/alex-haw/CS2511/blob/main/netbeans_JDK8_install_script.sh)
 4. Execute `sudo chmod +x ~/Downloads/netbeans_JDK8_install_script.sh  && sudo ~/Downloads/netbeans_JDK8_install_script.sh`
 #### Tips: 
 1. Your system may require slightly different steps dependion on your configuration. If you modify the script for your own use, consider sharing it on GitHub to help people with similar systems.
