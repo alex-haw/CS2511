@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFXProject4.jnlp">
+  <information>
+    <title>JavaFXProject4</title>
+    <vendor>alex</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFXProject4.jar" size="36231" download="eager" />
+    <jar href="lib/hamcrest-core-1.3.jar" size="45024" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="framework.ui.ProblemGUI"  name="JavaFXProject4" />
+  <update check="always"/>
+</jnlp>
